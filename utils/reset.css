@@ -1,0 +1,11 @@
+button{
+    all: initial;
+
+}
+a{
+    color: inherit !important;
+    text-decoration: inherit !important; 
+    cursor: pointer;
+
+
+}
